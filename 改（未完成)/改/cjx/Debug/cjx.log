@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\cjx\cjx\源.cpp(162,33): warning C4101: “x”: 未引用的局部变量
+E:\cjx\cjx\源.cpp(296,31): warning C4018: “<”: 有符号/无符号不匹配
+  cjx.vcxproj -> E:\cjx\Debug\cjx.exe
